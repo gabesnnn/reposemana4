@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\tareasemana4\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe.config
+C:\Users\HP\source\repos\tareasemana4\ejercicio7\ejercicio7\bin\Debug\ejercicio7.exe
+C:\Users\HP\source\repos\tareasemana4\ejercicio7\ejercicio7\bin\Debug\ejercicio7.pdb
+C:\Users\HP\source\repos\tareasemana4\ejercicio7\ejercicio7\obj\Debug\ejercicio7.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\tareasemana4\ejercicio7\ejercicio7\obj\Debug\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\tareasemana4\ejercicio7\ejercicio7\obj\Debug\ejercicio7.exe
+C:\Users\HP\source\repos\tareasemana4\ejercicio7\ejercicio7\obj\Debug\ejercicio7.pdb
